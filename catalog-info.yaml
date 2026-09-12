@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "my-demo-app"
+  name: "backstage"
   annotations:
     github.com/project-slug: yuriolab/backstage
 spec:
